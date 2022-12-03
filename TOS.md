@@ -1,5 +1,5 @@
 # Paprikii's Term of Services
-Term of Services for SAO Bot on Discord
+Term of Services for Paprikii on Discord
 
 Last updated: December 1st, 2022
 
