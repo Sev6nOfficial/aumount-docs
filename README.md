@@ -2,13 +2,13 @@
 Documents for Paprikii Bot on Discord
 
 ## Contribution
-Sev6n - Discord: user#0000
+Sev6n - Discord: -ˋˏ꒰👑꒱ ʚ Sev6n💻#9587
 
 
 ## Contact us
 
-Discord: https://discord.gg/server_code
+Discord: https://discord.gg/VZw8KPTXGB
 
-Email: mail@gmail.com (Add "Paprikii related" to the title of your email)
+Email: agentpingu@icloud.com (Add "Paprikii related" to the title of your email)
 
-Add the bot to your server: https://link.com
+Add the bot to your server: http://bit.ly/3H9C5KK
