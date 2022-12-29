@@ -1,5 +1,5 @@
-# Paprikii
-Documents for Paprikii Bot on Discord
+# Aumount
+Documents for Aumount Bot on Discord
 
 ## Contribution
 Sev6n - Discord: -ˋˏ꒰👑꒱ ʚ Sev6n💻#9587
