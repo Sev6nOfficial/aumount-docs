@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: December 26th, 2022
+Last updated: January 1st, 2023
 
 This project is responsible in terms of data protection laws, in particular the EU General Data Protection Regulation (GDPR)
 
