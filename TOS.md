@@ -1,7 +1,7 @@
 # Aumount's Term of Services
 Term of Services for Paprikii on Discord
 
-Last updated: December 26th, 2022
+Last updated: January 1st, 2023
 
 ## Agreement to Terms
 These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Sev6n, as Paprikii, concerning your access to and use of the Paprikii as well as any other media form, website, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Bot”). You agree that by accessing the Bot, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE BOT AND YOU MUST DISCONTINUE USE IMMEDIATELY.
