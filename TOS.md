@@ -1,5 +1,5 @@
 # Aumount's Term of Services
-Term of Services for Paprikii on Discord
+Term of Services for Aumount Bot on Discord
 
 Last updated: January 1st, 2023
 
