@@ -6,15 +6,7 @@ This project is responsible in terms of data protection laws, in particular the 
 
 ## Our Data Usage
 
-Our project saves your:
-  
-  - Discord User ID | stored for just 30 days
-
-Our project get your:
-
-  - Discord Profile Picture | stored for just 30 days
-  - Discord Banner (if you have one) | stored for just 30 days
-  - Account Date Creation (to see if your account is a new/alt account) | stored for just 30 days
+Our project does not store any data as of the [16.0](https://github.com/Sev6nOfficial/aumount-docs/releases/tag/discord-bot-v14) update!
 
 ## Your Rights as a Data Subject
 
