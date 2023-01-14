@@ -4,7 +4,7 @@ Term of Services for Aumount Bot on Discord
 Last updated: January 11th, 2023
 
 ## Agreement to Terms
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Sev6n working as Full-Stack Developer, as of the creator of Aumount, concerning your access to and use of the Aumount as well as any other media form, website, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Bot”). You agree that by accessing the Bot, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE BOT AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Sev6n, the creator of Aumount, concerning your access to and use of the Aumount as well as any other media form, website, media channel, mobile website or mobile application related, linked, or otherwise connected in the app Discord (collectively, the “Bot”). You agree that by accessing the Bot, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE BOT AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
 Supplemental terms and conditions or documents that may be posted on the website from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use from time to time. We will alert you about any changes by updating the “Last updated” date of these Terms of Use, and you waive any right to receive specific notice of each such change. Please ensure that you check the applicable Terms every time you use our Bot so that you understand which Terms apply. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Bot after the date such revised Terms of Use are posted.
 
@@ -24,7 +24,7 @@ By using the Bot, you represent and warrant that:
 If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Bot (or any portion thereof).
 
 ## Fees and Payment
-We currently haven't delivered services that require you to pay. Ignore or report anyone who is trying to make you pay to have our bot's services.
+We currently haven't delivered services that require you to pay. Ignore or report anyone who is trying to make you pay to have our bot's services. We are planning to...
 
 ## Prohibited Activities
 You may not access or use the Bot for any purpose other than that for which we make the Bot available. The Bot may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
