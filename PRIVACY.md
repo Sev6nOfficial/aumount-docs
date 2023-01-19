@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: January 14th, 2023
+Last updated: January 19th, 2023
 
 This project is responsible in terms of data protection laws, in particular the EU General Data Protection Regulation (GDPR)
 
@@ -28,7 +28,7 @@ If you have given us your consent, you can revoke it at any time with future eff
 
 ## Payments
 
-No payments are required for use of our project.
+No payments are required for use of our project. We may add it in sooner updates!
 
 ## Links to External Websites
 Our service may contain links to external websites that are not operated by us.
