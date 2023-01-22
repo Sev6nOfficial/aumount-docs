@@ -10,7 +10,7 @@ Our project does not store any data as of the [16.0](https://github.com/Sev6nOff
 
 From the update [16.5](https://github.com/Sev6nOfficial/aumount-docs/releases/tag/bot), we will:
 
-Keep Your User and Tag (User#0000) and birthday date when mentioned for *birthday* commands. | Stored till you are willling to remove it from our database running the command.
+Keep Your User and Tag (User#0000) and birthday date when mentioned for *birthday* commands. | Stored till you are willling to remove it from our database running by the command.
 
 ## Your Rights as a Data Subject
 
