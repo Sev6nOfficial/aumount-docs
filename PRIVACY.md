@@ -7,8 +7,11 @@ This project is responsible in terms of data protection laws, in particular the 
 ## Our Data Usage
 
 Our project does not store any data as of the [16.0](https://github.com/Sev6nOfficial/aumount-docs/releases/tag/discord-bot-v14) update!
+
 From the update [16.5](https://github.com/Sev6nOfficial/aumount-docs/releases/tag/bot), we will:
+
 Keep Your User and Tag (User#0000) and birthday date when mentioned for *birthday* commands. | Stored till you are willling to remove it from our database running the command.
+
 ## Your Rights as a Data Subject
 
 You can exercise the following rights at any time using the contact details provided by our data protection officer:
