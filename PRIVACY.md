@@ -2,7 +2,7 @@
 
 Last updated: January 25th, 2023
 
-This project is responsible in terms of data protection laws, in particular the EU General Data Protection Regulation (GDPR)
+This project is responsible in terms of data protection laws, in particular the EU General Data Protection Regulation (GDPR).
 
 
 ## Our Data Usage
