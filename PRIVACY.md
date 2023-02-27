@@ -7,7 +7,6 @@ This project is responsible in terms of data protection laws, in particular the 
 
 ## Our Data Usage
 
-Our project does not store any data as of the [16.0](https://github.com/Sev6nOfficial/aumount-docs/releases/tag/discord-bot-v14) update!
 
 From the update [15.0](https://github.com/Sev6nOfficial/aumount-docs/releases/tag/bot), we will:
 
