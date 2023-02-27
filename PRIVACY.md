@@ -9,13 +9,12 @@ This project is responsible in terms of data protection laws, in particular the 
 
 Our project does not store any data as of the [16.0](https://github.com/Sev6nOfficial/aumount-docs/releases/tag/discord-bot-v14) update!
 
-From the update [16.3](https://github.com/Sev6nOfficial/aumount-docs/releases/tag/bot), we will:
+From the update [15.0](https://github.com/Sev6nOfficial/aumount-docs/releases/tag/bot), we will:
 
-- Keep Your User and Tag (User#0000) for the blacklist command till the owner will decide to remove you when appealed. If your appeal is declined, we will keep it in our database to not let you use any command from Aumount.
+- Keep Your User, Tag (User#0000) and your economy info for the economy commands. If you have 0 coins in your balance, we will not save any info in pur database.
+From the update [17.0](https://github.com/Sev6nOfficial/aumount-docs/releases/tag/bot), we will:
 
-From the update [16.5](https://github.com/Sev6nOfficial/aumount-docs/releases/tag/bot), we will:
-
-- Keep Your User and Tag (User#0000) and birthday date when mentioned for *birthday* commands. | Stored till you are willling to remove it from our database running by the command.
+- Keep Your User and Tag (User#0000) for the blacklist command till the owner will decide to remove you when appealed. If your appeal is declined or/and if you do not have right to appeal, we will keep it in our database to not let you use any command from Aumount.
 
 
 ## Your Rights as a Data Subject
